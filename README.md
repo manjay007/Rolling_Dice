@@ -4,7 +4,7 @@
 
 # About The Project
 
-This is just a simple flutter rolling dice app built with animation
+This is just a simple flutter rolling dice app with basic animation.
 
 ---
 
@@ -72,5 +72,3 @@ https://api.flutter.dev/flutter/animation/Curves-class.html
 
 https://pub.dev/packages/animate_do
 
-Reference Link for image:
-https://www.cleanpng.com/png-shake-dice-three-dices-white-geometric-dice-254203/
