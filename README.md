@@ -1,10 +1,12 @@
-# Rolling Dice
-
-<img src="demo.gif" height="500em" />
-
 # About The Project
 
 This is just a simple flutter rolling dice app with basic animation.
+
+
+# Demo
+
+<img src="demo.gif" height="500em" />
+
 
 ---
 
